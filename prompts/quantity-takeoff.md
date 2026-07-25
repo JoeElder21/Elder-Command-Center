@@ -1,50 +1,59 @@
 # Quantity Takeoff
 
 ## Purpose
-Extract accurate material and labor quantities from construction documents to support cost estimating, bid preparation, and pay application verification. This systematic takeoff ensures no items are missed and quantities are traceable to specific plan sheets.
+
+Perform accurate quantity takeoffs from construction documents for civil engineering and landscape architecture projects in Kentucky. Takeoffs support cost estimating, bid preparation, material ordering, and pay application verification using methods consistent with KYTC measurement standards and industry practice.
 
 ## When to Use
-- Preparing an engineer's opinion of probable cost for a project
-- Verifying a contractor's bid quantities against the design documents
-- Reviewing a contractor's pay application quantities for progress payments
-- Evaluating change order quantities for reasonableness
+
+- Preparing engineer's or landscape architect's opinion of probable construction cost
+- Verifying contractor bid quantities against plan quantities on public bid projects
+- Supporting progress pay application reviews during construction administration
+- Performing quantity comparisons for value engineering or change order review
+- Generating material quantity summaries for procurement on design-build projects
 
 ## Required Inputs
-1. **Complete construction plan set** (current revision with all addenda and change orders)
-2. **Technical specifications** with unit of measure for each pay item
-3. **Bid schedule or pay item list** (if established; otherwise develop from plans)
-4. **Geotechnical report** for earthwork classification assumptions
-5. **Utility plan profiles** with pipe lengths, sizes, and invert elevations
-6. **Grading plan** with earthwork volume calculations
+
+1. **Construction plan set** (grading, utility, paving, landscape, erosion control, structural, detail sheets)
+2. **Construction specifications** (for unit definitions, measurement methods, and pay item descriptions)
+3. **Cross-sections** (for earthwork, roadway, and channel quantities)
+4. **Geotechnical report** (for rock excavation estimates, undercut quantities, soil classification)
+5. **KYTC Standard Specifications** (current edition, for measurement and payment definitions on state projects)
+6. **Bid item list or schedule of values** and **digital terrain model files** (DTM/TIN if available)
 
 ## Procedure
-1. **Plan Review and Pay Item List** -- Review the complete plan set and specifications to build a comprehensive list of pay items. Organize by CSI division or by work category: earthwork, erosion control, storm sewer, sanitary sewer, water, roadway, curb/gutter/sidewalk, landscaping, and miscellaneous. Assign units of measure (CY, LF, SY, EA, LS, TON) consistent with KYTC Standard Specifications or local agency standards.
-2. **Earthwork** -- Extract cut and fill volumes from the grading plan earthwork summary. Separate topsoil stripping (CY), common excavation (CY), rock excavation (CY), embankment (CY), and unsuitable material removal (CY). Apply shrink/swell factors from the geotechnical report. Calculate trench excavation for utilities separately using trench width x depth x length for each pipe run.
-3. **Erosion Control** -- Measure silt fence (LF) from the erosion control plan perimeter. Count inlet protection devices (EA). Calculate sediment basin volume (CY) and surface area (AC). Measure temporary seeding areas (AC) and permanent seeding areas (AC). Count construction entrance installations (EA) with stone quantity (TON).
-4. **Storm Sewer** -- Measure each pipe run from manhole center to manhole center or manhole to outfall. Record diameter, material, and class for each segment. Count structures: manholes (EA) by depth range, junction boxes (EA), yard inlets (EA), curb inlets (EA), headwalls (EA). Measure riprap at outfalls (CY or TON) with geotextile underlayment (SY).
-5. **Sanitary Sewer** -- Measure gravity main by diameter and material (LF). Count manholes by depth range (4-6 ft, 6-8 ft, 8-10 ft, etc.). Count service laterals (EA) with length to right-of-way or easement line. Include any force main or pump station items if applicable.
-6. **Water Distribution** -- Measure water main by diameter and material (LF). Count fittings: tees, bends, valves, fire hydrants (EA). Count service connections (EA) with meter size. Include thrust blocks or restrained joints (EA).
-7. **Roadway and Paving** -- Calculate subgrade preparation (SY), aggregate base by thickness (TON or CY), asphalt by course and thickness (TON using density factor of approximately 110 lbs/SY/inch for KY mixes), and concrete pavement if applicable (SY). Measure curb and gutter (LF), sidewalk (SF or SY), and ADA ramps (EA).
-8. **Landscaping** -- Count trees by species and caliper (EA), shrubs by species and container size (EA), groundcover/perennials (EA or SF), sod (SY), seed (AC or SY), and mulch (CY). Measure irrigation pipe (LF) and count heads (EA) if applicable.
-9. **Cross-Check** -- Verify quantities by independent methods: check pipe lengths against profiles and plan views, verify areas using planimeter or CAD area calculations, compare earthwork volumes against surface-to-surface computations, and spot-check paving quantities against parking lot dimensions.
+
+1. **Organize by pay item.** Mirror the bid form or schedule of values. For KYTC projects, use Standard Pay Item codes (e.g., 02082 -- Excavation, 02436 -- 15" Pipe, Class III). For private projects, organize by CSI division.
+2. **Earthwork takeoff.** Use the average end area method for roadway/channel earthwork; apply the prismoidal correction for volumes exceeding 5,000 CY with significant section variation. For site grading, use the grid method (25-ft or 50-ft grid) or DTM surface comparison. Separate common excavation from rock excavation per the geotechnical rock line profile -- in Kentucky limestone geology, assume rock at the reported auger refusal depth. Apply shrink/swell factors (typical Kentucky: 1.15 shrink for compacted clay fill, 0.75 swell for blasted limestone). Calculate topsoil strip/replacement separately (6-inch depth per KYTC Section 211).
+3. **Linear utility takeoff.** Measure pipe lengths manhole-center to manhole-center; do not deduct for barrel width. Categorize by diameter, material, and depth range if the bid structure separates by depth. Count manholes, inlets, and endwalls by type (reference KYTC standard drawing numbers, e.g., Type A inlet per RDM 010). Calculate trench rock as the volume below rock line within a trench width of pipe OD plus 24 inches.
+4. **Paving and surfacing takeoff.** Calculate pavement areas by surface type (HMA, PCC, gravel), deducting for inlets and manholes. Convert HMA to tons at 110 lb/SY/inch or mix design unit weight (KYTC Section 401). Measure curb and gutter in LF by type (e.g., Type 1 CG per RDM 035). Calculate sidewalk/ADA ramp areas separately; count detectable warning panels per ramp.
+5. **Landscape and erosion control takeoff.** Count plant materials by species, size, and type from the planting plan; verify against the plant schedule. Calculate seeding/mulching areas by mix type (KYTC Mixture E temporary, Mixture A permanent per Section 212). Measure silt fence and EP&SC BMPs in LF or each per the EP&SC plan. Calculate mulch at 2 tons/acre (straw) or 4 tons/acre (wood cellulose fiber).
+6. **Structural takeoff.** Calculate concrete volumes by element (footing, wall, slab) in CY. Calculate reinforcing steel weight in pounds with a 5% waste/lap factor. Count structural steel by member size, length, and connection type.
+7. **Compile and cross-check.** Sum by pay item. Cross-check: excavation vs. fill volumes (with shrink/swell), pipe trench excavation vs. pipe length, paving area vs. subgrade area. Round per KYTC conventions: earthwork to nearest 10 CY, pipe to nearest LF, HMA to nearest ton, seeding to nearest 0.1 acre.
 
 ## Output Format
-- Pay item summary table: item number, description, unit, quantity, plan sheet reference
-- Quantity backup sheets showing calculations for each item with sketches or plan references
-- Earthwork summary sheet with cut/fill diagram
-- Pipe and structure schedule pulled from the utility plans
+
+- Quantity summary table: Pay Item Number, Description, Unit, Calculated Quantity, Drawing Reference, Notes/Assumptions
+- Detailed backup worksheets showing individual calculations for each quantity
+- Earthwork summary with line items for common excavation, rock excavation, embankment, topsoil, waste/borrow
+- Landscape quantity schedule matching the plant schedule format; digital spreadsheet (XLSX) with formulas intact
 
 ## Quality Checks
-- Every quantity traceable to a specific plan sheet and station or grid reference
-- Earthwork volumes reconciled between grading plan summary and independent calculation within 5%
-- Pipe lengths verified against both plan view and profile view measurements
-- No duplicate counting of items that appear on multiple plan sheets
-- Units of measure consistent with the specification pay item definitions
-- Quantities rounded appropriately (nearest CY for earthwork, nearest LF for pipe, nearest TON for aggregate)
-- A second person spot-checks at least 20% of line items before the takeoff is finalized
+
+- [ ] Earthwork cut and fill volumes balance within 10% or borrow/waste quantities are explicitly identified
+- [ ] Pipe quantities match between plan view measurement and profile stationing
+- [ ] Pavement areas from plan match within 3% of areas from typical sections
+- [ ] Plant material counts match the plant schedule on the landscape plan
+- [ ] All quantities use the correct unit of measure per the specification (LF, SY, CY, TON, EACH, LS)
+- [ ] Rock excavation quantities are supported by geotechnical boring data
+- [ ] No pay items in the bid form are left without a calculated quantity
+- [ ] Shrink/swell factors are documented and sourced from the geotechnical report
+- [ ] KYTC pay item codes are current and match the active Standard Specifications edition
 
 ## Template Reference
-- KYTC Standard Specifications for Road and Bridge Construction (pay item units)
-- CSI MasterFormat Division structure
-- AACE International Recommended Practice 25R-03 (Estimating Lost Labor Productivity)
-- RSMeans Estimating Handbook for quantity survey methodology
+
+- KYTC Standard Specifications for Road and Bridge Construction (measurement and payment clauses)
+- KYTC Estimating Guide and Standard Pay Item List
+- KYTC Standard Drawings (RDM, RPM, RDR series for structure and detail dimensions)
+- Kentucky Erosion Prevention and Sediment Control Field Guide (BMP sizing and measurement)
+- CSI UniFormat / MasterFormat for private project pay item organization
