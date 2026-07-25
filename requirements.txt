@@ -1,0 +1,5 @@
+markdown>=3.5
+weasyprint>=60.0
+mdformat>=0.7.0
+mdformat-gfm>=1.0.0
+mdformat-tables>=1.0.0

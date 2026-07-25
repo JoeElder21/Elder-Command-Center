@@ -1,0 +1,15 @@
+[project]
+name = "elder-command-center"
+version = "1.0.0"
+description = "Centralized AI command system for civil engineering, landscape architecture, and land development"
+requires-python = ">=3.10"
+
+[tool.mdformat]
+wrap = "no"
+number = false
+end_of_line = "lf"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 120
+select = ["E", "F", "W", "I"]
