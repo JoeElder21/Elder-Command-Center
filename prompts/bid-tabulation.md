@@ -16,11 +16,9 @@ Tabulate construction bids and evaluate contractor qualifications for civil engi
 - Complete bid documents: advertisement, instructions to bidders, bid form, and contract documents
 - All submitted bid packages (sealed bids opened at the public bid opening)
 - Engineer's estimate of probable construction cost
-- Bid bond or bid security from each bidder (minimum 5% of bid per KRS 45A.185 for state projects)
-- Kentucky contractor license verification (KRS 198B.060 requires general contractor licensing for projects over $15,000)
-- Bidder pre-qualification statements (if required by the solicitation)
-- DBE/MBE/WBE participation commitments (if applicable per federal or KYTC requirements)
-- Addenda acknowledgment records
+- Bid bond or bid security from each bidder (minimum 5% per KRS 45A.185 for state projects)
+- Kentucky contractor license verification (KRS 198B.060, projects over $15,000)
+- Bidder pre-qualification statements, DBE/MBE/WBE commitments, and addenda acknowledgments
 - Kentucky Secretary of State business registration status for each bidder
 
 ## Procedure
@@ -56,11 +54,11 @@ Tabulate construction bids and evaluate contractor qualifications for civil engi
 
 ## Output Format
 
-- Formal bid tabulation spreadsheet with all bidders, all line items, extensions, subtotals, and corrected totals ranked from low to high
+- Formal bid tabulation spreadsheet with all bidders, line items, extensions, and corrected totals ranked low to high
 - Bid opening minutes documenting time, location, attendees, and bids received
 - Responsiveness and responsibility checklist completed for each bidder
-- Award recommendation letter (1-2 pages) identifying the recommended bidder, basis of award, budget comparison, and any conditions or concerns
-- Engineer's estimate comparison analysis showing percentage deviation by major category and total
+- Award recommendation letter (1-2 pages) with recommended bidder, basis of award, and budget comparison
+- Engineer's estimate comparison showing percentage deviation by major category and total
 
 ## Quality Checks
 
