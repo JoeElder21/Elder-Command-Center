@@ -6,12 +6,10 @@ Tabulate construction bids and evaluate contractor qualifications for civil engi
 
 ## When to Use
 
-- Public bid openings for projects subject to KRS 424.260 (city/county competitive bidding over $30,000)
-- KYTC project lettings through the Division of Construction Procurement
+- Public bid openings subject to KRS 424.260 (city/county over $30,000) or KYTC project lettings
 - KIA-funded (State Revolving Fund) water and sewer infrastructure projects
 - Private or institutional projects using competitive bidding procurement
-- Pre-qualification evaluations for select bidder lists
-- Post-bid evaluation when apparent low bidder responsiveness or responsibility is in question
+- Pre-qualification evaluations or post-bid evaluation when responsiveness or responsibility is in question
 
 ## Required Inputs
 
@@ -68,22 +66,17 @@ Tabulate construction bids and evaluate contractor qualifications for civil engi
 
 - All arithmetic extensions have been independently verified and corrected totals are confirmed
 - Every responsiveness requirement from the instructions to bidders has been checked for each bid
-- Contractor license verification is documented with license number, classification, and expiration date
+- Contractor license verification is documented with license number, classification, and expiration
 - Bid security amounts meet the minimum percentage required by the solicitation and applicable statute
 - Unbalanced bid analysis has been performed and documented for the apparent low bidder at minimum
-- Award recommendation complies with KRS 45A.365 or KRS 424.260 as applicable to the project
-- If rejecting a lower bidder as non-responsible, the determination is documented with specific factual findings sufficient to withstand a bid protest under KRS 45A.285
-- DBE/MBE participation commitments have been verified against project goals
-- All addenda acknowledgments are confirmed for the recommended bidder
+- Award recommendation complies with KRS 45A.365 or KRS 424.260 as applicable
+- Non-responsibility determinations include specific factual findings to withstand protest under KRS 45A.285
+- DBE/MBE participation commitments and all addenda acknowledgments are verified for the recommended bidder
 
 ## Template Reference
 
-- KRS 424.260 (competitive bidding requirements for local governments)
-- KRS 45A.180-45A.460 (Kentucky Model Procurement Code for state agencies)
-- KRS 45A.285 (bid protest procedures)
-- KRS 198B.060 (contractor licensing requirements)
+- KRS 424.260 (local competitive bidding), KRS 45A.180-460 (Model Procurement Code), KRS 45A.285 (bid protests), KRS 198B.060 (contractor licensing)
 - KYTC Standard Specifications Section 102 (Bidding Requirements and Conditions)
-- EJCDC C-200 Instructions to Bidders (standard for water/sewer infrastructure projects)
-- AIA A701 Instructions to Bidders (standard for building and site projects)
+- EJCDC C-200 and AIA A701 Instructions to Bidders
 - KYTC Bid Tabulation Format (Division of Construction Procurement)
 - Kentucky Finance and Administration Cabinet Model Procurement Regulations (200 KAR 5:021)
