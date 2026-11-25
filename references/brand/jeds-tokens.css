@@ -1,0 +1,40 @@
+/* Elder Land Design (JEDS) brand tokens. Contrast ratios are measured; see jeds.md. */
+:root {
+  /* Core palette */
+  --jeds-green: #2D5016;       /* primary: headings, bands, mark tile */
+  --jeds-gold: #D4AF37;        /* accent: rules, large display on green, graphics only */
+  --jeds-leaf: #7CB342;        /* secondary accent: status, highlights, large graphics */
+  --jeds-cream: #F5F5DC;       /* page ground */
+
+  /* Support */
+  --jeds-paper: #FBFAEF;       /* cards on cream */
+  --jeds-ink: #16220A;         /* body text on cream (14.97:1), text on gold (7.88:1) */
+  --jeds-gold-deep: #846B1C;   /* gold for text/links on cream (4.63:1) */
+  --jeds-leaf-deep: #54792D;   /* leaf for text on cream (4.57:1) */
+  --jeds-stone: #6A6F5A;       /* secondary text on cream (4.70:1) */
+  --jeds-line: #CFCBA8;        /* hairlines, table rules */
+
+  /* Type */
+  --jeds-font-display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --jeds-font-body: "Outfit", Calibri, "Segoe UI", system-ui, sans-serif;
+
+  /* Type scale (1.25 ratio) */
+  --jeds-text-xs: 0.8rem;
+  --jeds-text-sm: 0.9rem;
+  --jeds-text-md: 1.0625rem;   /* body, 17px */
+  --jeds-text-lg: 1.33rem;
+  --jeds-text-xl: 1.66rem;
+  --jeds-text-2xl: 2.08rem;
+  --jeds-text-3xl: 2.6rem;
+  --jeds-text-4xl: 3.25rem;
+
+  /* Space and shape */
+  --jeds-space-1: 0.25rem;
+  --jeds-space-2: 0.5rem;
+  --jeds-space-3: 1rem;
+  --jeds-space-4: 1.5rem;
+  --jeds-space-5: 2.5rem;
+  --jeds-space-6: 4rem;
+  --jeds-radius: 6px;          /* the mark tile uses 18% radius */
+  --jeds-rule: 1px solid var(--jeds-gold);
+}
