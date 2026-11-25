@@ -5,8 +5,8 @@
 | **Project** | [Project Name] |
 | **Project No.** | [Project Number] |
 | **Date** | [Date] |
-| **Prepared By** | [Author Name, P.E., Title] |
-| **Reviewed By** | [Reviewer Name, P.E., Title] |
+| **Prepared By** | [Author Name, Title] |
+| **Reviewed By** | [Licensed Professional of Record, license no., Title] |
 | **Client** | [Client Name] |
 | **Site Address** | [Street Address, City, State ZIP] |
 | **Jurisdiction** | [Reviewing Agency / Municipality] |
@@ -357,6 +357,6 @@
 *This report has been prepared under the supervision of a licensed Professional Engineer. The analyses and recommendations are based on the information and assumptions stated herein. Field verification of soil conditions and infiltration rates is recommended prior to final design.*
 
 ___________________________
-[Engineer Name], P.E.
+[Licensed Professional of Record], [PE/PLA], License No. [____]
 [License Number, State]
 [Date]

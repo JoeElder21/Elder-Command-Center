@@ -3,7 +3,7 @@
 ## Confirmed Preferences
 - Output format: Tables over paragraphs
 - Communication style: Direct, no filler, action-oriented
-- Technical depth: PE/PLA level
+- Technical depth: licensed-professional grade (analysis and prep; Joe does not seal)
 - Brand priority: JEDS primary, Savage Investments secondary
 
 ## Jurisdiction Learnings

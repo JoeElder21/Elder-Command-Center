@@ -12,7 +12,7 @@ Evaluate the viability and strategic fit of geographic markets, project types, o
 ## Required Inputs
 - Target geographic area defined by county, ADD region, or planning jurisdiction.
 - Service line or project type under evaluation.
-- Firm's current capability statement and staff certifications (PE, PLA, CPESC, CPSWQ, CFM, LEED AP).
+- Firm's current capability statement and verified staff certifications (list only those actually held).
 - Historical project data from the firm's portfolio in the target area.
 - Publicly available data sources: U.S. Census, Kentucky State Data Center, KYTC project lettings, KIA Intended Use Plan, PVA property records, local comprehensive plans.
 

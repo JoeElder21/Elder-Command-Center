@@ -1,11 +1,13 @@
 # Stormwater Management Report — Bardstown Commons Commercial Development
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 | Field | Value |
 |-------|-------|
 | **Project** | Bardstown Commons — Phase 1 Commercial Pad |
 | **Location** | US-31E and Withrow Court, Bardstown, KY 40004 |
 | **Date** | 2026-07-15 |
-| **Prepared By** | Joe Elder, PLA |
+| **Prepared By** | Joe Elder |
 | **Parcel ID** | 091-00-00-045 |
 | **Total Site Area** | 8.2 acres |
 | **Disturbed Area** | 6.4 acres |
