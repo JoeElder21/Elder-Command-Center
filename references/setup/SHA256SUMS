@@ -1,5 +1,5 @@
 # Regenerate: cd references/setup && sha256sum ../../CLAUDE.md ../brand/* ../communication-standards.md > SHA256SUMS
-271e6746a7955dc868e082da5c107e511908fd48b4ebc75095b7d42e55758708  ../../CLAUDE.md
+df5eda77df6504c54246f3457bb172f02625caee93966ef8d9e8c9cbc83c14a4  ../../CLAUDE.md
 cb3fd767f16e7733236969fb8a554fe8751bedc612072840767b94e280a9a3b0  ../brand/jeds-brand-sheet.html
 d5ea7972d8687d945ae8a24964902ff7bfce440a670c8ebc3f56208e2b820b00  ../brand/jeds-mark-small.svg
 e23a4ec1ab427ea9c38ca415969bf49bf46e3e869671663b25303029078f4186  ../brand/jeds-mark.svg

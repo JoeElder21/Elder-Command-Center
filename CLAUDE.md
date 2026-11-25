@@ -53,6 +53,7 @@ Numbers, names and contacts in `examples/` are invented. Never reuse them as req
 | `python tools/generate_pdf.py [--batch]` | Markdown to PDF |
 | `python tools/lint.py`, `format.py`, `generate_toc.py` | Content tools |
 | `python tools/plugin_usage.py` | Rank plugins by real use and count their hooks (run on your own machine) |
+| `python tools/claude_profile.py` plan, lean, full, enable | Load only your most-used plugins by default; bring any or all back (run on your own machine) |
 
 Python 3.10+, Ruff, 120 columns, type hints and Google-style docstrings.
 
