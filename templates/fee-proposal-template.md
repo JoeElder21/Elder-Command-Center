@@ -98,10 +98,10 @@
 
 | Classification            | Hourly Rate  |
 |---------------------------|--------------|
-| Principal Engineer        | $[Rate]/hr   |
+| Principal                 | $[Rate]/hr   |
 | Senior Project Manager    | $[Rate]/hr   |
-| Project Engineer          | $[Rate]/hr   |
-| Staff Engineer            | $[Rate]/hr   |
+| Project Lead              | $[Rate]/hr   |
+| Staff Designer            | $[Rate]/hr   |
 | Designer / CAD Technician | $[Rate]/hr   |
 | Field Inspector           | $[Rate]/hr   |
 | Administrative Support    | $[Rate]/hr   |

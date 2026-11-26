@@ -1,5 +1,7 @@
 # Zoning Compliance Review: Gateway Inn Hotel
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 | Field | Detail |
 |-------|--------|
 | **Project Name** | Gateway Inn |
@@ -10,7 +12,7 @@
 | **Proposed Use** | Hotel (120 rooms, 4 stories) |
 | **Applicable Code** | City of Elizabethtown Zoning Ordinance, Article 7 -- B-2 Highway Commercial District |
 | **Client** | Bluegrass Hospitality Partners, LLC |
-| **Prepared By** | Joe Elder, PE |
+| **Prepared By** | Joe Elder |
 | **Firm** | JEDS Engineering |
 | **Date** | July 22, 2026 |
 | **Revision** | 1.0 |

@@ -1,5 +1,7 @@
 # Fee Proposal for Professional Engineering Services
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 | Field | Details |
 |---|---|
 | **Project** | Towne Centre at Elizabethtown -- Site Design Services |
@@ -7,8 +9,8 @@
 | **Location** | West Dixie Avenue (US 31W) & Pear Orchard Road, Elizabethtown, KY 42701 |
 | **Client** | Bluegrass Development Group, LLC |
 | **Client Contact** | Mr. Kevin R. Stratton, Managing Member |
-| **Prepared By** | Joe Elder, PE |
-| **Firm** | Elder Engineering |
+| **Prepared By** | Joe Elder |
+| **Firm** | Elder Land Design |
 | **Date** | July 21, 2026 |
 | **Proposal No.** | P-2026-0163-01 |
 | **Valid Through** | August 20, 2026 |
@@ -21,7 +23,7 @@ Bluegrass Development Group, LLC ("Client") is developing an approximately 15-ac
 
 The site is currently undeveloped agricultural land (Crider silt loam, 2--6% slopes per USDA Web Soil Survey). The parcel is zoned B-2 (General Business) under the Elizabethtown Zoning Ordinance and lies within the West Dixie Avenue Overlay District, which imposes additional architectural, signage, and landscaping requirements. Public water is available from Hardin County Water District No. 1 along West Dixie Avenue, and sanitary sewer is available from the Elizabethtown Sewer Department via an existing 12-inch main along Pear Orchard Road.
 
-Elder Engineering ("Engineer") proposes to provide site civil engineering design services as described in this proposal. Architectural, structural, MEP, landscape architecture (beyond code-minimum requirements), and environmental services are not included and are assumed to be provided by others.
+Elder Land Design ("Consultant") proposes to provide site design and land-development consulting services; sealed engineering deliverables are provided by the licensed engineer of record engaged for the project as described in this proposal. Architectural, structural, MEP, landscape architecture (beyond code-minimum requirements), and environmental services are not included and are assumed to be provided by others.
 
 ---
 
@@ -31,7 +33,7 @@ Elder Engineering ("Engineer") proposes to provide site civil engineering design
 
 **Fee: $8,500 (Lump Sum)**
 
-Elder Engineering will perform initial site analysis to support the Client's acquisition due diligence and design feasibility evaluation.
+Elder Land Design will perform initial site analysis to support the Client's acquisition due diligence and design feasibility evaluation.
 
 **Deliverables:**
 
@@ -63,7 +65,7 @@ Elder Engineering will perform initial site analysis to support the Client's acq
 
 **Fee: $15,000 (Lump Sum)**
 
-Based on the Client's program and conceptual building layouts (provided by Client's architect), Elder Engineering will prepare a preliminary site plan suitable for Client review, tenant coordination, and pre-application meeting with the City of Elizabethtown Planning and Zoning Department.
+Based on the Client's program and conceptual building layouts (provided by Client's architect), Elder Land Design will prepare a preliminary site plan suitable for Client review, tenant coordination, and pre-application meeting with the City of Elizabethtown Planning and Zoning Department.
 
 **Deliverables:**
 
@@ -90,7 +92,7 @@ Based on the Client's program and conceptual building layouts (provided by Clien
 
 **Fee: $45,000 (Lump Sum)**
 
-Elder Engineering will prepare construction-ready civil engineering drawings and specifications for the project. Documents will be prepared in accordance with the City of Elizabethtown standards and suitable for competitive bidding.
+Elder Land Design will prepare construction-ready civil engineering drawings and specifications for the project. Documents will be prepared in accordance with the City of Elizabethtown standards and suitable for competitive bidding.
 
 **Deliverables:**
 
@@ -126,7 +128,7 @@ Elder Engineering will prepare construction-ready civil engineering drawings and
 
 **Fee: $12,000 (Lump Sum)**
 
-Elder Engineering will prepare and submit permit applications on behalf of the Client for the following approvals:
+Elder Land Design will prepare and submit permit applications on behalf of the Client for the following approvals:
 
 1. **City of Elizabethtown Development Plan Review** -- Submit civil drawings for Development Plan review per the Elizabethtown Zoning Ordinance. Attend one Planning Commission meeting if required.
 
@@ -148,7 +150,7 @@ Elder Engineering will prepare and submit permit applications on behalf of the C
 
 **Fee: $18,000 (Lump Sum)**
 
-Elder Engineering will provide construction-phase services during site construction to verify the work is being performed in general conformance with the construction documents.
+Elder Land Design will provide construction-phase services during site construction to verify the work is being performed in general conformance with the construction documents.
 
 **Services Include:**
 
@@ -196,22 +198,22 @@ Elder Engineering will provide construction-phase services during site construct
 1. Invoices will be submitted monthly based on percentage of completion for lump-sum phases.
 2. Payment is due within **30 days** of invoice date (Net 30).
 3. A late-payment charge of 1.5% per month (18% per annum) will be applied to balances unpaid beyond 30 days.
-4. The Client may authorize individual phases independently. Written authorization (email acceptable) is required before Elder Engineering begins work on any phase.
+4. The Client may authorize individual phases independently. Written authorization (email acceptable) is required before Elder Land Design begins work on any phase.
 5. Reimbursable expenses (permit filing fees, large-format printing, overnight delivery) will be invoiced at cost plus 10% and are not included in the fees above.
 
 ---
 
 ## Assumptions
 
-This proposal is based on the following assumptions. If any assumption proves incorrect, Elder Engineering reserves the right to adjust the scope and fee accordingly with written notice to the Client.
+This proposal is based on the following assumptions. If any assumption proves incorrect, Elder Land Design reserves the right to adjust the scope and fee accordingly with written notice to the Client.
 
-1. A boundary and topographic survey of the property, including location of existing utilities, will be provided by the Client's surveyor at no cost to Elder Engineering. The survey shall be provided in AutoCAD (.dwg) format on the Kentucky Single Zone State Plane Coordinate System (NAD83) with elevations referenced to NAVD88.
+1. A boundary and topographic survey of the property, including location of existing utilities, will be provided by the Client's surveyor at no cost to Elder Land Design. The survey shall be provided in AutoCAD (.dwg) format on the Kentucky Single Zone State Plane Coordinate System (NAD83) with elevations referenced to NAVD88.
 
-2. A geotechnical investigation report, including pavement design recommendations and earthwork recommendations, will be provided by the Client at no cost to Elder Engineering.
+2. A geotechnical investigation report, including pavement design recommendations and earthwork recommendations, will be provided by the Client at no cost to Elder Land Design.
 
 3. Architectural floor plans, building elevations, and a tenant program will be provided by the Client's architect in sufficient detail and in a timely manner to support the design schedule.
 
-4. A Traffic Impact Study (TIS), including access and turn-lane recommendations, will be performed by the Client's traffic engineer. Elder Engineering will coordinate with the traffic engineer but is not responsible for traffic engineering services.
+4. A Traffic Impact Study (TIS), including access and turn-lane recommendations, will be performed by the Client's traffic engineer. Elder Land Design will coordinate with the traffic engineer but is not responsible for traffic engineering services.
 
 5. The site is not expected to contain regulated wetlands, threatened or endangered species habitat, or hazardous materials. If environmental constraints are identified, scope and fee adjustments may be necessary.
 
@@ -249,8 +251,8 @@ Services requested by the Client that are outside the scope described above will
 
 | Staff Classification | Hourly Rate |
 |---|---|
-| Principal Engineer | $185 / hr |
-| Project Engineer | $155 / hr |
+| Principal | $185 / hr |
+| Project Lead | $155 / hr |
 | Staff Engineer / Designer | $120 / hr |
 | CAD Technician | $95 / hr |
 | Administrative Support | $65 / hr |
@@ -259,7 +261,7 @@ Services requested by the Client that are outside the scope described above will
 
 ## Authorization
 
-This proposal, together with the attached General Terms and Conditions (Exhibit A, provided under separate cover), constitutes the entire agreement between Elder Engineering and Client for the services described herein. This proposal is valid for 30 days from the date above. To authorize Elder Engineering to proceed, please sign below and return one copy.
+This proposal, together with the attached General Terms and Conditions (Exhibit A, provided under separate cover), constitutes the entire agreement between Elder Land Design and Client for the services described herein. This proposal is valid for 30 days from the date above. To authorize Elder Land Design to proceed, please sign below and return one copy.
 
 &nbsp;
 
@@ -281,8 +283,8 @@ Date: _______________
 
 Signature: ___________________________________________
 
-Printed Name: Joe Elder, PE
+Printed Name: Joe Elder
 
-Title: Principal Engineer
+Title: Founder & Principal
 
 Date: July 21, 2026

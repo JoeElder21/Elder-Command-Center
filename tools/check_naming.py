@@ -18,6 +18,9 @@ VALID_NAME_PATTERN = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*\.md$")
 # Template files must end with -template.md.
 TEMPLATE_SUFFIX = "-template.md"
 
+# Upper-case names that other tools require (Claude Code, skills).
+ALLOWED_NAMES = {"CLAUDE.md", "SKILL.md"}
+
 
 def check_naming(repo_root: Path) -> list[str]:
     """Check all .md files for naming violations. Returns a list of violation messages."""
@@ -27,6 +30,8 @@ def check_naming(repo_root: Path) -> list[str]:
     for filepath in md_files:
         relative = filepath.relative_to(repo_root)
         filename = filepath.name
+        if filename in ALLOWED_NAMES:
+            continue
 
         # Check lowercase-with-hyphens naming.
         if not VALID_NAME_PATTERN.match(filename):

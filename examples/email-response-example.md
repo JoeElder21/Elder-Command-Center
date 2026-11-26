@@ -1,9 +1,11 @@
 # Professional Client Email Response -- Example
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 ---
 
 **To:** Brandon Whitfield, Whitfield Development Group
-**From:** Joe Elder, PE -- Elder Engineering, PLLC
+**From:** Joe Elder -- Elder Land Design
 **Date:** July 15, 2026
 **Subject:** RE: Briarwood Commons -- Timeline and Cost Update
 
@@ -31,7 +33,7 @@ Here is a summary of the additional costs we are tracking:
 | Additional haul-off of rock spoils | $12,200 |
 | KPDES permit amendment and water quality monitoring | $4,800 |
 | Blasting vibration monitoring (adjacent structures) | $3,500 |
-| Revised grading plan engineering (Elder Engineering) | $6,200 |
+| Revised grading plan engineering (Elder Land Design) | $6,200 |
 | **Total Estimated Additional Cost** | **$105,200** |
 
 I want to be transparent: the rock blasting figure could adjust modestly once Engleman finishes the east parcel, but I am confident that $78,500 is a reasonable estimate based on the quantities removed to date and what remains. I will firm up that number within the next two weeks as they complete the work.
@@ -65,9 +67,9 @@ Please give me a call if you want to discuss any of this before Thursday, or fee
 
 Best regards,
 
-**Joe Elder, PE**
-Elder Engineering, PLLC
+**Joe Elder**
+Elder Land Design
 1250 College Street, Suite 200
 Elizabethtown, KY 42701
 (502) 555-0142
-joe@elderengineering.com
+joe@elderlanddesign.example

@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Elder Land Design Brand Sheet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Outfit:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="jeds-tokens.css">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--jeds-cream); color: var(--jeds-ink); font: 400 var(--jeds-text-md)/1.6 var(--jeds-font-body); }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+  h1, h2, h3 { font-family: var(--jeds-font-display); color: var(--jeds-green); font-weight: 600; margin: 0; line-height: 1.1; }
+  h2 { font-size: var(--jeds-text-2xl); margin-bottom: var(--jeds-space-3); }
+  .label { font: 500 var(--jeds-text-xs)/1 var(--jeds-font-body); letter-spacing: .08em; text-transform: uppercase; color: var(--jeds-stone); }
+  section { padding: var(--jeds-space-5) 0; border-top: var(--jeds-rule); }
+  header { padding: var(--jeds-space-5) 0 var(--jeds-space-4); }
+  .lockup { display: flex; align-items: center; gap: 18px; }
+  .lockup img { width: 84px; height: 84px; }
+  .wordmark { font: 600 var(--jeds-text-3xl)/1 var(--jeds-font-display); letter-spacing: .12em; color: var(--jeds-green); }
+  .descriptor { font: 500 var(--jeds-text-xs)/1 var(--jeds-font-body); letter-spacing: .18em; color: var(--jeds-gold-deep); margin-top: 8px; }
+  .tag { font: 500 var(--jeds-text-xl)/1.2 var(--jeds-font-display); font-style: italic; color: var(--jeds-green); margin-top: var(--jeds-space-4); }
+  .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+  .card { background: var(--jeds-paper); border: 1px solid var(--jeds-line); border-radius: var(--jeds-radius); padding: 18px; }
+  .card h3 { font-size: var(--jeds-text-xl); }
+  .card p { margin: 8px 0 0; font-size: var(--jeds-text-sm); color: var(--jeds-stone); }
+  .sw { border-radius: var(--jeds-radius); overflow: hidden; border: 1px solid var(--jeds-line); background: var(--jeds-paper); }
+  .sw .chip { height: 72px; }
+  .sw div:last-child { padding: 10px 12px; font-size: var(--jeds-text-sm); }
+  .sw b { display: block; font-weight: 500; }
+  .sw span { color: var(--jeds-stone); font-size: var(--jeds-text-xs); }
+  .cover { display: grid; grid-template-rows: 1fr auto; min-height: 330px; background: var(--jeds-cream); border: 1px solid var(--jeds-line); position: relative; }
+  .cover .body { padding: 28px; }
+  .cover h3 { font-size: var(--jeds-text-4xl); max-width: 14ch; }
+  .cover .band { background: var(--jeds-green); color: var(--jeds-cream); padding: 16px 28px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: var(--jeds-text-sm); }
+  .stamp { position: absolute; top: 16px; right: 16px; font: 500 var(--jeds-text-xs)/1 var(--jeds-font-body); letter-spacing: .14em; border: 1px solid var(--jeds-gold-deep); color: var(--jeds-gold-deep); padding: 6px 10px; }
+  .rule { height: 1px; background: var(--jeds-gold); margin: 16px 0; width: 120px; }
+  .sizes { display: flex; align-items: flex-end; gap: 18px; flex-wrap: wrap; }
+  .btn { display: inline-block; background: var(--jeds-gold); color: var(--jeds-ink); padding: 10px 18px; border-radius: var(--jeds-radius); font-weight: 500; }
+  .dont { color: #7a1f1f; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="lockup">
+      <img src="jeds-mark.svg" alt="Elder Land Design mark">
+      <div><div class="wordmark">ELDER LAND DESIGN</div><div class="descriptor">JOE ELDER DESIGN STUDIOS</div></div>
+    </div>
+    <div class="tag">Shaping land. Building legacy.</div>
+  </header>
+
+  <section>
+    <div class="label">Brand idea</div>
+    <h2>Land, read closely.</h2>
+    <div class="grid">
+      <div class="card"><h3>Read</h3><p>Pre-development and due diligence. Know the site, the code and the numbers before money moves.</p></div>
+      <div class="card"><h3>Shape</h3><p>Concept and design development. Give the land a form that works and lasts.</p></div>
+      <div class="card"><h3>Approve</h3><p>Documents and permitting. Take the project through review without surprises.</p></div>
+      <div class="card"><h3>Build</h3><p>Construction and closeout. Keep what was designed what gets built.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="label">Palette (measured WCAG contrast)</div>
+    <h2>Green, gold, leaf, cream</h2>
+    <div class="grid">
+      <div class="sw"><div class="chip" style="background:#2D5016"></div><div><b>Green #2D5016</b><span>Cream on Green 8.36:1</span></div></div>
+      <div class="sw"><div class="chip" style="background:#D4AF37"></div><div><b>Gold #D4AF37</b><span>Ink on Gold 7.88:1. Gold on Cream 1.90:1: never text</span></div></div>
+      <div class="sw"><div class="chip" style="background:#7CB342"></div><div><b>Leaf #7CB342</b><span>Leaf on Cream 2.26:1: never text</span></div></div>
+      <div class="sw"><div class="chip" style="background:#F5F5DC"></div><div><b>Cream #F5F5DC</b><span>Page ground</span></div></div>
+      <div class="sw"><div class="chip" style="background:#846B1C"></div><div><b>Gold Deep #846B1C</b><span>On Cream 4.63:1: gold text</span></div></div>
+      <div class="sw"><div class="chip" style="background:#54792D"></div><div><b>Leaf Deep #54792D</b><span>On Cream 4.57:1: leaf text</span></div></div>
+      <div class="sw"><div class="chip" style="background:#16220A"></div><div><b>Ink #16220A</b><span>On Cream 14.97:1: body</span></div></div>
+      <div class="sw"><div class="chip" style="background:#6A6F5A"></div><div><b>Stone #6A6F5A</b><span>On Cream 4.70:1: secondary</span></div></div>
+    </div>
+    <p style="margin-top:18px"><span class="btn">Request a site review</span> &nbsp; Ink on Gold, 7.88:1.</p>
+  </section>
+
+  <section>
+    <div class="label">Type</div>
+    <h2>Cormorant Garamond and Outfit</h2>
+    <div class="grid">
+      <div class="card"><div class="label">Display, 600</div><div style="font:600 var(--jeds-text-4xl)/1 var(--jeds-font-display);color:var(--jeds-green)">Kentucky ground, read closely</div></div>
+      <div class="card"><div class="label">Body, Outfit 400</div><p style="color:var(--jeds-ink);font-size:var(--jeds-text-md)">The north parcel drains to the existing inlet. Detention is likely required; verify with the reviewing agency before the pre-application meeting.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="label">Mark sizes</div>
+    <h2>Full mark and small variant</h2>
+    <div class="sizes">
+      <img src="jeds-mark.svg" width="128" height="128" alt="">
+      <img src="jeds-mark.svg" width="64" height="64" alt="">
+      <img src="jeds-mark.svg" width="48" height="48" alt="">
+      <span class="label">full: 48 px and up</span>
+      <img src="jeds-mark-small.svg" width="40" height="40" alt="">
+      <img src="jeds-mark-small.svg" width="24" height="24" alt="">
+      <img src="jeds-mark-small.svg" width="16" height="16" alt="">
+      <span class="label">small: 16 to 47 px</span>
+    </div>
+  </section>
+
+  <section>
+    <div class="label">Document cover</div>
+    <h2>Draft by default</h2>
+    <div class="cover">
+      <div class="stamp">DRAFT</div>
+      <div class="body">
+        <img src="jeds-mark.svg" width="52" height="52" alt="">
+        <div class="rule"></div>
+        <h3>Site Feasibility Summary</h3>
+      </div>
+      <div class="band"><span>Sample Project &middot; Sample Client</span><span>Rev 0 &middot; 2026-11-25</span><span>Elder Land Design</span></div>
+    </div>
+    <p class="label" style="margin-top:14px">Signature: Joe Elder / Founder &amp; Principal / Elder Land Design</p>
+    <p class="dont">Never add PE, PLA, "engineer", "landscape architect" or "licensed" to a title or lockup.</p>
+  </section>
+</div>
+</body>
+</html>

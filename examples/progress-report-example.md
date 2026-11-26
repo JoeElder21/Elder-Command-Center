@@ -1,5 +1,7 @@
 # Monthly Progress Report
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 **Project:** North Dixie Highway Improvements (KY-31W)
 **KYTC Item No.:** 4-8900.00
 **Hardin County | Elizabethtown, KY**
@@ -16,7 +18,7 @@
 |---|---|
 | **Owner** | Kentucky Transportation Cabinet (KYTC), District 4 |
 | **Contractor** | Scotty's Contracting & Stone, LLC |
-| **Engineer of Record** | Elder Engineering, PLLC |
+| **Engineer of Record** | Elder Land Design |
 | **Contract Amount (Original)** | $2,400,000.00 |
 | **Approved Change Orders** | $35,200.00 |
 | **Revised Contract Amount** | $2,435,200.00 |
@@ -119,7 +121,7 @@ No additional change orders are pending at this time. However, the project team 
 ## Issues and Concerns
 
 ### 1. AT&T Aerial Relocation Delays
-AT&T's relocation contractor (MasTec) has fallen behind their committed schedule for aerial cable relocation north of Sta. 36+00. Their revised completion date of July 18 conflicts with planned base stone operations in that area. Elder Engineering has escalated through KYTC's Utility Section and requested a coordination meeting with AT&T for the week of July 7.
+AT&T's relocation contractor (MasTec) has fallen behind their committed schedule for aerial cable relocation north of Sta. 36+00. Their revised completion date of July 18 conflicts with planned base stone operations in that area. Elder Land Design has escalated through KYTC's Utility Section and requested a coordination meeting with AT&T for the week of July 7.
 
 **Risk:** If AT&T does not complete relocation by July 18, base stone and paving operations from Sta. 36+00 to Sta. 42+50 will be delayed, potentially adding 1-2 weeks to overall project duration.
 
@@ -127,7 +129,7 @@ AT&T's relocation contractor (MasTec) has fallen behind their committed schedule
 LG&E has identified that their existing 4" steel gas main at the Pear Orchard Road intersection requires a full replacement (not adjustment) due to the main's age and condition. LG&E will fund the replacement, but the work window overlaps with our planned signal foundation installation. Coordination is ongoing to sequence the two operations.
 
 ### 3. Elizabethtown Municipal Water
-Elizabethtown Water has not yet confirmed their schedule for the 8" water main adjustment at Pear Orchard Road. Elder Engineering sent a follow-up request on June 27 and is awaiting response. This work must be completed before base stone placement in that area.
+Elizabethtown Water has not yet confirmed their schedule for the 8" water main adjustment at Pear Orchard Road. Elder Land Design sent a follow-up request on June 27 and is awaiting response. This work must be completed before base stone placement in that area.
 
 ### 4. KPDES Permit Compliance
 The KPDES KYR10 permit requires stabilization of all disturbed areas within 14 days of final grading. With the accelerated schedule for subgrade work in July, the contractor must maintain adequate seed/mulch crews to stay in compliance. This was discussed at the June 25 progress meeting and the contractor has acknowledged.
@@ -139,18 +141,18 @@ The KPDES KYR10 permit requires stabilization of all disturbed areas within 14 d
 | # | Action Item | Responsible Party | Due Date | Status |
 |---|---|---|---|---|
 | 1 | Submit revised CPM schedule to KYTC District 4 | Scotty's Contracting | July 11, 2026 | In Progress |
-| 2 | Coordinate meeting with AT&T/MasTec on relocation schedule | Elder Engineering | July 7, 2026 | Scheduled |
-| 3 | Follow up with E'town Water on water main adjustment schedule | Elder Engineering | July 7, 2026 | Pending |
-| 4 | Submit time extension request documentation to KYTC | Elder Engineering | July 10, 2026 | In Progress |
-| 5 | Monitor Class II fill quantities; prepare supplemental agreement if needed | Elder Engineering | Ongoing | Monitoring |
-| 6 | LG&E/Signal foundation sequencing plan at Pear Orchard Rd | Elder Engineering / LG&E | July 14, 2026 | Pending |
+| 2 | Coordinate meeting with AT&T/MasTec on relocation schedule | Elder Land Design | July 7, 2026 | Scheduled |
+| 3 | Follow up with E'town Water on water main adjustment schedule | Elder Land Design | July 7, 2026 | Pending |
+| 4 | Submit time extension request documentation to KYTC | Elder Land Design | July 10, 2026 | In Progress |
+| 5 | Monitor Class II fill quantities; prepare supplemental agreement if needed | Elder Land Design | Ongoing | Monitoring |
+| 6 | LG&E/Signal foundation sequencing plan at Pear Orchard Rd | Elder Land Design / LG&E | July 14, 2026 | Pending |
 | 7 | Confirm DGA material source and delivery schedule | Scotty's Contracting | July 7, 2026 | Pending |
 
 ---
 
 ## Photos
 
-*(Photos on file with Elder Engineering and available upon request.)*
+*(Photos on file with Elder Land Design and available upon request.)*
 
 1. Storm sewer installation at Sta. 35+00 looking north -- June 12, 2026
 2. Completed curb and gutter at Morningside Drive intersection -- June 20, 2026
@@ -168,7 +170,7 @@ The KPDES KYR10 permit requires stabilization of all disturbed areas within 14 d
 ---
 
 *Prepared by:*
-**Joe Elder, PE**
-Elder Engineering, PLLC
-joe@elderengineering.com
+**Joe Elder**
+Elder Land Design
+joe@elderlanddesign.example
 (502) 555-0142

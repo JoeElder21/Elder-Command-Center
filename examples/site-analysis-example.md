@@ -1,5 +1,7 @@
 # Site Analysis Report: Heartland Crossing Mixed-Use Development
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 | Field | Detail |
 |-------|--------|
 | **Project Name** | Heartland Crossing |
@@ -7,7 +9,7 @@
 | **Parcel ID** | 191-30-00-045.00 (Hardin County PVA) |
 | **Total Acreage** | 25.3 acres |
 | **Client** | Heartland Development Group, LLC |
-| **Prepared By** | Joe Elder, PE |
+| **Prepared By** | Joe Elder |
 | **Firm** | JEDS Engineering |
 | **Date** | July 18, 2026 |
 | **Revision** | 1.0 |

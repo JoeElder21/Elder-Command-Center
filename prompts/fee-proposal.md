@@ -25,7 +25,7 @@ Generate professional services fee proposals for civil engineering and landscape
 1. **Define scope phases** -- Break services into standard phases: Project Initiation, Survey/Data Collection, Schematic Design, Design Development, Construction Documents, Permitting, Bidding Assistance, Construction Administration. Omit phases not applicable.
 2. **Identify regulatory submittals** -- List each required submittal: LFUCG subdivision plat, Elizabethtown site plan review, KDOW KPDES permit (KYR10), Army Corps Section 404/Nationwide Permit, KY Heritage Council Section 106 review, Cabinet for Economic Development (if incentive-tied).
 3. **Estimate hours by task** -- Use JEDS standard hour ranges: topographic survey (16-40 hrs depending on acreage), grading plan (24-60 hrs), utility plan (16-40 hrs), erosion control/SWPPP (8-24 hrs), landscape plan (16-48 hrs), construction details (8-24 hrs), stormwater management report per KY BMP Manual (16-40 hrs).
-4. **Apply billing rates** -- Use current JEDS rate schedule: Principal/PE $185-210/hr, Project Engineer $140-165/hr, PLA $150-175/hr, Design Professional $95-120/hr, CAD Technician $85-105/hr, 2-person survey crew $175-195/hr, administrative $65-75/hr.
+4. **Apply billing rates** -- Use the current Elder Land Design rate schedule supplied by Joe. If none is supplied, mark every rate VERIFY and use no sample figures. Licensed-professional and survey work reflects the subconsultant's quote.
 5. **Calculate reimbursable expenses** -- Printing/reproduction, mileage at current IRS rate, permit filing fees (pass-through at cost), geotechnical/environmental subconsultant fees (marked up per contract terms, typically 10%).
 6. **Build fee summary table** -- Phase-by-phase breakdown showing labor hours, labor cost, reimbursables, subconsultant costs, and phase total. Include grand total and any optional/alternates listed separately.
 7. **Draft assumptions and exclusions** -- Explicitly state what is NOT included: Phase I ESA, wetland delineation, traffic impact study, structural engineering, ALTA survey, legal descriptions, utility relocations, material testing during construction.
@@ -34,12 +34,12 @@ Generate professional services fee proposals for civil engineering and landscape
 ## Output Format
 
 Produce a structured proposal document with:
-- Cover letter (1 page) referencing the project, expressing qualifications, noting PE/PLA licensure
+- Cover letter (1 page) referencing the project, expressing qualifications, identifying the licensed professional of record for any sealed deliverable
 - Scope of Services narrative (organized by phase, with numbered task descriptions)
 - Fee Summary Table (phase, hours, fee per phase, total)
 - Schedule (milestone dates tied to planning commission calendars or construction windows)
 - Assumptions and Exclusions list
-- Signature block with PE and/or PLA seal statement per 201 KAR 18:150
+- Signature block: Joe Elder, Founder & Principal, Elder Land Design; add a seal statement only where a licensed professional of record signs and seals
 
 ## Quality Checks
 

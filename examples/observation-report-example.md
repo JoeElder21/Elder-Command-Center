@@ -1,5 +1,7 @@
 # Field Observation Report
 
+> **ILLUSTRATIVE SAMPLE — FICTIONAL DATA.** Names, contacts, rates, dates, regulations and quantities are invented for teaching and are not requirements or facts. Sealed engineering or landscape-architecture work is performed and sealed by the licensed professional of record.
+
 | Field | Details |
 |---|---|
 | **Project** | Cedar Ridge Estates — Subdivision Improvements |
@@ -9,8 +11,8 @@
 | **Contractor** | Heartland Grading & Utilities, Inc. |
 | **Date of Observation** | July 22, 2026 |
 | **Time on Site** | 7:15 AM -- 2:45 PM |
-| **Prepared By** | Joe Elder, PE |
-| **Firm** | Elder Engineering |
+| **Prepared By** | Joe Elder |
+| **Firm** | Elder Land Design |
 | **Report No.** | OBS-2026-0147-009 |
 
 ---
@@ -31,7 +33,7 @@
 
 | Name | Role | Company |
 |---|---|---|
-| Joe Elder, PE | Observing Engineer | Elder Engineering |
+| Joe Elder | Field Observer | Elder Land Design |
 | Travis Benton | Project Superintendent | Heartland Grading & Utilities, Inc. |
 | Marcus Caldwell | Equipment Operator | Heartland Grading & Utilities, Inc. |
 | James "Donnie" Skaggs | Pipe Crew Foreman | Heartland Grading & Utilities, Inc. |
@@ -110,7 +112,7 @@ This is a violation of the project's KPDES KYR10 permit (Permit No. KYR100982) a
 
 **Severity:** Administrative
 
-The contractor has not submitted density test reports for fill lifts placed on July 17 and July 18, 2026 (Lots 17--19 rough grading). QC testing was reportedly performed by River City Testing on those dates but results have not been provided to Elder Engineering. Test reports are required within 48 hours of testing per the contract General Conditions. The contractor was reminded of this requirement verbally and in writing (see Directive CD-011).
+The contractor has not submitted density test reports for fill lifts placed on July 17 and July 18, 2026 (Lots 17--19 rough grading). QC testing was reportedly performed by River City Testing on those dates but results have not been provided to Elder Land Design. Test reports are required within 48 hours of testing per the contract General Conditions. The contractor was reminded of this requirement verbally and in writing (see Directive CD-011).
 
 ---
 
@@ -135,7 +137,7 @@ The contractor has not submitted density test reports for fill lifts placed on J
 **Issued To:** Travis Benton, Superintendent, Heartland Grading & Utilities, Inc.
 **Date:** July 22, 2026
 
-Remove all pipe zone backfill placed in non-conforming lifts between Sta. 13+25 and Sta. 13+75. Re-place backfill in maximum 8-inch loose lifts with mechanical compaction (vibratory plate compactor or trench roller). Each lift shall be tested to verify 95% Standard Proctor density prior to placement of the next lift. Compaction test results shall be submitted to Elder Engineering within 48 hours of testing.
+Remove all pipe zone backfill placed in non-conforming lifts between Sta. 13+25 and Sta. 13+75. Re-place backfill in maximum 8-inch loose lifts with mechanical compaction (vibratory plate compactor or trench roller). Each lift shall be tested to verify 95% Standard Proctor density prior to placement of the next lift. Compaction test results shall be submitted to Elder Land Design within 48 hours of testing.
 
 **Required Completion:** Prior to any paving operations on Cedar Ridge Drive.
 
@@ -147,7 +149,7 @@ Remove all pipe zone backfill placed in non-conforming lifts between Sta. 13+25 
 1. Repair or replace the damaged silt fence between stakes EC-42 and EC-46 (approximately 80 LF).
 2. Install a secondary (redundant) row of silt fence 6 feet upslope of the repaired primary fence for the full length of the southern property boundary.
 3. Remove all deposited sediment from the Heartland Elementary School property and restore the affected area to pre-disturbance condition.
-4. Photograph completed repairs and submit documentation to Elder Engineering.
+4. Photograph completed repairs and submit documentation to Elder Land Design.
 
 **Required Completion:** End of business July 23, 2026.
 
@@ -170,9 +172,9 @@ The next site observation is scheduled for July 25, 2026 to verify completion of
 
 ---
 
-*This report documents observations made by Elder Engineering on the date noted and is not a guarantee that all work performed on that date was observed. The contractor remains solely responsible for the means, methods, and safety of their operations, and for conformance with the contract documents.*
+*This report documents observations made by Elder Land Design on the date noted and is not a guarantee that all work performed on that date was observed. The contractor remains solely responsible for the means, methods, and safety of their operations, and for conformance with the contract documents.*
 
-**Joe Elder, PE**
-Elder Engineering
-joe@elderengineering.com
+**Joe Elder**
+Elder Land Design
+joe@elderlanddesign.example
 (270) 555-0148
