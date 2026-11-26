@@ -36,8 +36,8 @@ def claude(args: list[str], apply: bool) -> str:
     return done.stdout
 
 
-def enabled_plugins() -> list[str]:
-    """Currently enabled plugin ids from `claude plugin list --json` (tolerant of list or dict output)."""
+def plugin_list() -> list[dict]:
+    """Installed plugins from `claude plugin list --json` (a list of {id, enabled, ...})."""
     exe = shutil.which("claude")
     if exe is None:
         return []
@@ -46,12 +46,23 @@ def enabled_plugins() -> list[str]:
         data = json.loads(out)
     except json.JSONDecodeError:
         return []
-    items = data if isinstance(data, list) else data.get("plugins", data.get("installed", []))
-    ids = []
-    for item in items:
-        if isinstance(item, dict) and item.get("enabled", True):
-            ids.append(item.get("id") or item.get("name", ""))
-    return [i for i in ids if i]
+    items = data if isinstance(data, list) else data.get("plugins", [])
+    return [item for item in items if isinstance(item, dict) and item.get("id")]
+
+
+def enabled_plugins() -> list[str]:
+    """Ids of the plugins that are enabled right now."""
+    return [item["id"] for item in plugin_list() if item.get("enabled", True)]
+
+
+def name_to_id() -> dict[str, str]:
+    """Map a bare plugin name to its installed id. The CLI rejects bare names with an ambiguous-marketplace error."""
+    return {item["id"].split("@")[0]: item["id"] for item in plugin_list()}
+
+
+def resolve(name: str, ids: dict[str, str]) -> str:
+    """Return the `name@marketplace` id for `name` when it is installed, else `name` unchanged."""
+    return name if "@" in name else ids.get(name, name)
 
 
 def plan(top: int, days: int) -> list[str]:
@@ -87,10 +98,15 @@ def main() -> int:
             return print("\nNo usage found, so nothing to keep. Not touching your plugins.") or 1
         if args.apply:
             STATE.write_text(json.dumps({"saved": time.strftime("%Y-%m-%d %H:%M"), "enabled_before": enabled_plugins()}))
+        ids = name_to_id()
+        for name in keep:
+            if ids and name not in ids:
+                print(f"  note: {name} is not installed here, skipping it")
         print("\nLean profile:")
         claude(["plugin", "disable", "--all"], args.apply)
         for name in keep:
-            claude(["plugin", "enable", name], args.apply)
+            if not ids or name in ids:
+                claude(["plugin", "enable", resolve(name, ids)], args.apply)
         print("\nRestore everything later: python tools/claude_profile.py full --apply")
     elif args.command == "full":
         before = json.loads(STATE.read_text())["enabled_before"] if STATE.exists() else []
@@ -101,7 +117,7 @@ def main() -> int:
     else:
         if not args.name:
             parser.error(f"{args.command} needs a plugin NAME")
-        claude(["plugin", args.command, args.name], args.apply)
+        claude(["plugin", args.command, resolve(args.name, name_to_id())], args.apply)
     return 0
 
 
